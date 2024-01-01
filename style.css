@@ -33,6 +33,11 @@ hr{
 #kepengurusan {
     text-align: center;
 }
+#kepengurusan h2{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
 #kepengurusan img{
     width: 300px;
 }
